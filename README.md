@@ -8,10 +8,10 @@ Some list filter search components with react
 
 |Key|Value|Type|
 |:--|:----|:---|
-|datas|Elements of the list|Array/Object|
+|data|Elements of the list|Array/Object|
 
 ### DynamicFilter
 
 |Key|Value|Type|
 |:--|:----|:---|
-|datas|Elements of the list|Array/Object|
+|data|Elements of the list|Array/Object|
