@@ -123,12 +123,8 @@ class DynamicFilter extends Component {
 			return item.toLowerCase().search(event.target.value.toLowerCase()) !== -1 ? elem.style.display = "none" : elem.style.display = "";
 
     });
-    
-    console.log(getUpdateList);
 
 		this.setState({values: getUpdateList});
-    
-    console.log(this.state.values);
 
 	}
 
